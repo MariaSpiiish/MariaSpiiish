@@ -4,7 +4,8 @@
   👯 Стремлюсь попасть в команду опытных товарищей\
   :computer: В настоящее время углубляю свои знания React JS, изучаю Redux\
   🌱 Стараюсь расширить свой стек. Изучаю Elm и TypeScript\
-  :school_satchel: Решаю алгоритмические задачи на LeetCode
+  :school_satchel: Решаю алгоритмические задачи на LeetCode\
+  :nerd_face: Изучаю Computer Science (CS50 2023) от Harvard University
 
 ## Мой стек:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
