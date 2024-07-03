@@ -14,5 +14,3 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaspiiish&layout=compact)](https://github.com/mariaspiiish/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/MariaSpiiish/badges/small)](https://www.codewars.com/users/MariaSpiiish) 
